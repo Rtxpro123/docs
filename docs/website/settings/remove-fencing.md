@@ -12,3 +12,4 @@ This may slightly improve performance in some projects.
 :::caution
 This may break some projects.
 :::
+To change x and y of the stage
